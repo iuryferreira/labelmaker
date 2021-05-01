@@ -1,0 +1,47 @@
+{
+    "feat": {
+        "name": "feat",
+        "description": "new feature or request",
+        "color": "88f780"
+    },
+    "bug": {
+        "name": "bug",
+        "description": "something isn't working",
+        "color": "CC0000"
+    },
+    "docs": {
+        "name": "docs",
+        "description": "improvements or additions to documentation",
+        "color": "0075ca"
+    },
+    "high": {
+        "name": "high",
+        "description": "highest development priority",
+        "color": "ed7b8c"
+    },
+    "low": {
+        "name": "low",
+        "description": "lower development priority",
+        "color": "e5ce92"
+    },
+    "next": {
+        "name": "next",
+        "description": "will be resolved in future versions",
+        "color": "e2d266"
+    },
+    "pr": {
+        "name": "pr",
+        "description": "sending my pull request",
+        "color": "2d02c9"
+    },
+    "review": {
+        "name": "review",
+        "description": "this can be improved before the release",
+        "color": "5e66bc"
+    },
+    "suggestion": {
+        "name": "suggestion",
+        "description": "noted improvements that can be made",
+        "color": "aee4f9"
+    }
+}
